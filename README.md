@@ -1,4 +1,6 @@
 # -Skillcraft-technology-internship-Task 1-
+![image](https://github.com/user-attachments/assets/a081ced4-0588-4cf6-8afe-17eb5b5297ab)
+
 Welcome to my submission for Task 1 of the Data Science Internship at Skillcraft Technology. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 
 **#Dataset**
